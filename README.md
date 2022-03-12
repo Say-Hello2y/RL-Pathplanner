@@ -1,5 +1,6 @@
 # reforcementLearningPathplanner
 An implementation of qlearning and sarsa path planning algorithm 
+用Q学习和SARSA做路径规划
 
 requirements(需要安装的python库)
 
